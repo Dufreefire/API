@@ -1,0 +1,45 @@
+{
+  "history": {
+    "b52": [
+      {
+        "phien": "1670924",
+        "du_doan": "tai",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2025-12-12T14:42:39.794Z"
+      },
+      {
+        "phien": "1670923",
+        "du_doan": "xiu",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2025-12-12T14:41:39.784Z"
+      },
+      {
+        "phien": "1670922",
+        "du_doan": "xiu",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2025-12-12T14:40:36.569Z"
+      },
+      {
+        "phien": "1670921",
+        "du_doan": "tai",
+        "ti_le": "57%",
+        "id": "@mryanhdz",
+        "timestamp": "2025-12-12T14:39:30.534Z"
+      },
+      {
+        "phien": "1670920",
+        "du_doan": "tai",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2025-12-12T14:38:49.121Z"
+      }
+    ]
+  },
+  "lastProcessedPhien": {
+    "b52": 1670924
+  },
+  "lastSaved": "2025-12-12T14:43:30.789Z"
+}
