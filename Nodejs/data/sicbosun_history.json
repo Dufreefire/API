@@ -1,0 +1,1345 @@
+[
+  {
+    "phien": "2329031",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      16,
+      14
+    ],
+    "do_tin_cay": "71.10%",
+    "reason": "Dựa trên: Cầu Bệt 3 phiên, Cầu 3-3 (1 bộ ba), Cầu 1-2-3",
+    "patterns": [
+      "Cầu Bệt 3 phiên",
+      "Cầu 3-3 (1 bộ ba)",
+      "Cầu 1-2-3",
+      "Phân tích xúc xắc: TB=11.6"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1765550466587
+  },
+  {
+    "phien": "2329032",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      16,
+      14
+    ],
+    "do_tin_cay": "72.40%",
+    "reason": "Dựa trên: Cầu Bệt 4 phiên, Cầu 3-3 (1 bộ ba), Phân tích xúc xắc: TB=11.8",
+    "patterns": [
+      "Cầu Bệt 4 phiên",
+      "Cầu 3-3 (1 bộ ba)",
+      "Cầu Gãy (bẻ cầu 4 phiên)",
+      "Phân tích xúc xắc: TB=11.8",
+      "Momentum mạnh Tài (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1765550493561
+  },
+  {
+    "phien": "2367283",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      8,
+      9
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861322283
+  },
+  {
+    "phien": "2367283",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      8,
+      9
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861353015
+  },
+  {
+    "phien": "2367284",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      8,
+      9
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861367941
+  },
+  {
+    "phien": "2367284",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      8,
+      9
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861422531
+  },
+  {
+    "phien": "2367285",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      13
+    ],
+    "do_tin_cay": "61.20%",
+    "reason": "Dựa trên: Phân tích xúc xắc: TB=11.5",
+    "patterns": [
+      "Phân tích xúc xắc: TB=11.5"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861425699
+  },
+  {
+    "phien": "2367285",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      13
+    ],
+    "do_tin_cay": "61.20%",
+    "reason": "Dựa trên: Phân tích xúc xắc: TB=11.5",
+    "patterns": [
+      "Phân tích xúc xắc: TB=11.5"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861435679
+  },
+  {
+    "phien": "2367285",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      13
+    ],
+    "do_tin_cay": "61.20%",
+    "reason": "Dựa trên: Phân tích xúc xắc: TB=11.5",
+    "patterns": [
+      "Phân tích xúc xắc: TB=11.5"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861465812
+  },
+  {
+    "phien": "2367286",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      13
+    ],
+    "do_tin_cay": "69.60%",
+    "reason": "Dựa trên: Cầu Bệt 3 phiên, Cầu 3-3 (1 bộ ba), Cầu 1-2-3",
+    "patterns": [
+      "Cầu Bệt 3 phiên",
+      "Cầu 3-3 (1 bộ ba)",
+      "Cầu 1-2-3"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861483716
+  },
+  {
+    "phien": "2367286",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      13
+    ],
+    "do_tin_cay": "69.60%",
+    "reason": "Dựa trên: Cầu Bệt 3 phiên, Cầu 3-3 (1 bộ ba), Cầu 1-2-3",
+    "patterns": [
+      "Cầu Bệt 3 phiên",
+      "Cầu 3-3 (1 bộ ba)",
+      "Cầu 1-2-3"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861533625
+  },
+  {
+    "phien": "2367287",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      9,
+      10
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861542372
+  },
+  {
+    "phien": "2367288",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      13,
+      11
+    ],
+    "do_tin_cay": "67.80%",
+    "reason": "Dựa trên: Xu hướng tăng điểm (+2.8), Momentum mạnh Tài (4/5)",
+    "patterns": [
+      "Xu hướng tăng điểm (+2.8)",
+      "Momentum mạnh Tài (4/5)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861602378
+  },
+  {
+    "phien": "2367289",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      13,
+      16
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861659385
+  },
+  {
+    "phien": "2367290",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      9
+    ],
+    "do_tin_cay": "64.80%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (5 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (5 phiên)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861716405
+  },
+  {
+    "phien": "2367291",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      11,
+      12
+    ],
+    "do_tin_cay": "64.30%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (6 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (6 phiên)",
+      "Xu hướng giảm điểm (-1.6)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861776415
+  },
+  {
+    "phien": "2367291",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      11,
+      12
+    ],
+    "do_tin_cay": "64.30%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (6 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (6 phiên)",
+      "Xu hướng giảm điểm (-1.6)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861779275
+  },
+  {
+    "phien": "2367292",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      5,
+      6
+    ],
+    "do_tin_cay": "61.50%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-1.8)",
+    "patterns": [
+      "Xu hướng giảm điểm (-1.8)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861833280
+  },
+  {
+    "phien": "2367292",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      5,
+      6
+    ],
+    "do_tin_cay": "61.50%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-1.8)",
+    "patterns": [
+      "Xu hướng giảm điểm (-1.8)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861833491
+  },
+  {
+    "phien": "2367292",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      5,
+      6
+    ],
+    "do_tin_cay": "61.50%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-1.8)",
+    "patterns": [
+      "Xu hướng giảm điểm (-1.8)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861869280
+  },
+  {
+    "phien": "2367293",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      5,
+      9
+    ],
+    "do_tin_cay": "63.30%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-3.6)",
+    "patterns": [
+      "Xu hướng giảm điểm (-3.6)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861890071
+  },
+  {
+    "phien": "2367293",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      5,
+      9
+    ],
+    "do_tin_cay": "63.30%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-3.6)",
+    "patterns": [
+      "Xu hướng giảm điểm (-3.6)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861890296
+  },
+  {
+    "phien": "2367294",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      5,
+      9
+    ],
+    "do_tin_cay": "63.00%",
+    "reason": "Dựa trên: Cầu 2-2 (2 cặp)",
+    "patterns": [
+      "Cầu 2-2 (2 cặp)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861950209
+  },
+  {
+    "phien": "2367294",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      5,
+      9
+    ],
+    "do_tin_cay": "63.00%",
+    "reason": "Dựa trên: Cầu 2-2 (2 cặp)",
+    "patterns": [
+      "Cầu 2-2 (2 cặp)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861950290
+  },
+  {
+    "phien": "2367295",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      13,
+      16
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862010064
+  },
+  {
+    "phien": "2367295",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      13,
+      16
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862010307
+  },
+  {
+    "phien": "2367296",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      13,
+      12
+    ],
+    "do_tin_cay": "63.20%",
+    "reason": "Dựa trên: Cầu 2-2 (3 cặp)",
+    "patterns": [
+      "Cầu 2-2 (3 cặp)",
+      "Phân tích xúc xắc: TB=8.9"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862067027
+  },
+  {
+    "phien": "2367296",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      13,
+      12
+    ],
+    "do_tin_cay": "63.20%",
+    "reason": "Dựa trên: Cầu 2-2 (3 cặp)",
+    "patterns": [
+      "Cầu 2-2 (3 cặp)",
+      "Phân tích xúc xắc: TB=8.9"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862070312
+  },
+  {
+    "phien": "2367297",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      13,
+      16
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862124377
+  },
+  {
+    "phien": "2367297",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      13,
+      16
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862127035
+  },
+  {
+    "phien": "2367298",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      16,
+      12
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862184037
+  },
+  {
+    "phien": "2367298",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      16,
+      12
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862187382
+  },
+  {
+    "phien": "2367299",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      4,
+      7
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862241398
+  },
+  {
+    "phien": "2367299",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      4,
+      7
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862244055
+  },
+  {
+    "phien": "2367300",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      16,
+      12
+    ],
+    "do_tin_cay": "64.80%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (5 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (5 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862301051
+  },
+  {
+    "phien": "2367300",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      16,
+      12
+    ],
+    "do_tin_cay": "64.80%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (5 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (5 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862301412
+  },
+  {
+    "phien": "2367301",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      10,
+      4
+    ],
+    "do_tin_cay": "64.10%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (6 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (6 phiên)",
+      "Xu hướng tăng điểm (+2.4)"
+    ],
+    "ket_qua_thuc": "Bão",
+    "timestamp": 1767862358054
+  },
+  {
+    "phien": "2367301",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      10,
+      4
+    ],
+    "do_tin_cay": "64.10%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (6 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (6 phiên)",
+      "Xu hướng tăng điểm (+2.4)"
+    ],
+    "ket_qua_thuc": "Bão",
+    "timestamp": 1767862361436
+  },
+  {
+    "phien": "2367302",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      4,
+      10
+    ],
+    "do_tin_cay": "64.30%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (6 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (6 phiên)",
+      "Xu hướng tăng điểm (+1.6)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862418068
+  },
+  {
+    "phien": "2367302",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      4,
+      10
+    ],
+    "do_tin_cay": "64.30%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (6 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (6 phiên)",
+      "Xu hướng tăng điểm (+1.6)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862421504
+  },
+  {
+    "phien": "2367303",
+    "du_doan": "Tài",
+    "doan_vi": [
+      16,
+      11,
+      12
+    ],
+    "do_tin_cay": "66.60%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (7 phiên), Xu hướng tăng điểm (+2.0)",
+    "patterns": [
+      "Cầu Đảo 1-1 (7 phiên)",
+      "Xu hướng tăng điểm (+2.0)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862475078
+  },
+  {
+    "phien": "2367303",
+    "du_doan": "Tài",
+    "doan_vi": [
+      16,
+      11,
+      12
+    ],
+    "do_tin_cay": "66.60%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (7 phiên), Xu hướng tăng điểm (+2.0)",
+    "patterns": [
+      "Cầu Đảo 1-1 (7 phiên)",
+      "Xu hướng tăng điểm (+2.0)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862475549
+  },
+  {
+    "phien": "2367304",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      4
+    ],
+    "do_tin_cay": "65.40%",
+    "reason": "Dựa trên: Momentum mạnh Xỉu (4/5)",
+    "patterns": [
+      "Momentum mạnh Xỉu (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862532082
+  },
+  {
+    "phien": "2367304",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      4
+    ],
+    "do_tin_cay": "65.40%",
+    "reason": "Dựa trên: Momentum mạnh Xỉu (4/5)",
+    "patterns": [
+      "Momentum mạnh Xỉu (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862535768
+  },
+  {
+    "phien": "2367305",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      16,
+      11
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862589586
+  },
+  {
+    "phien": "2367305",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      16,
+      11
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862592096
+  },
+  {
+    "phien": "2367306",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "67.20%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-2.0), Momentum mạnh Xỉu (4/5)",
+    "patterns": [
+      "Xu hướng giảm điểm (-2.0)",
+      "Momentum mạnh Xỉu (4/5)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862652099
+  },
+  {
+    "phien": "2367306",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "67.20%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-2.0), Momentum mạnh Xỉu (4/5)",
+    "patterns": [
+      "Xu hướng giảm điểm (-2.0)",
+      "Momentum mạnh Xỉu (4/5)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862655589
+  },
+  {
+    "phien": "2367307",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "69.00%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-4.0), Momentum mạnh Xỉu (4/5)",
+    "patterns": [
+      "Xu hướng giảm điểm (-4.0)",
+      "Momentum mạnh Xỉu (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862709107
+  },
+  {
+    "phien": "2367307",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "69.00%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-4.0), Momentum mạnh Xỉu (4/5)",
+    "patterns": [
+      "Xu hướng giảm điểm (-4.0)",
+      "Momentum mạnh Xỉu (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862709606
+  },
+  {
+    "phien": "2367308",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "62.10%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-2.4)",
+    "patterns": [
+      "Xu hướng giảm điểm (-2.4)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862769102
+  },
+  {
+    "phien": "2367308",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "62.10%",
+    "reason": "Dựa trên: Xu hướng giảm điểm (-2.4)",
+    "patterns": [
+      "Xu hướng giảm điểm (-2.4)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862769622
+  },
+  {
+    "phien": "2367309",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "61.20%",
+    "reason": "Dựa trên: Phân tích xúc xắc: TB=9.5",
+    "patterns": [
+      "Phân tích xúc xắc: TB=9.5"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862826109
+  },
+  {
+    "phien": "2367309",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "61.20%",
+    "reason": "Dựa trên: Phân tích xúc xắc: TB=9.5",
+    "patterns": [
+      "Phân tích xúc xắc: TB=9.5"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862829643
+  },
+  {
+    "phien": "2367310",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "68.10%",
+    "reason": "Dựa trên: Phân tích xúc xắc: TB=8.4, Momentum mạnh Xỉu (4/5)",
+    "patterns": [
+      "Phân tích xúc xắc: TB=8.4",
+      "Momentum mạnh Xỉu (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862883107
+  },
+  {
+    "phien": "2367310",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      8
+    ],
+    "do_tin_cay": "68.10%",
+    "reason": "Dựa trên: Phân tích xúc xắc: TB=8.4, Momentum mạnh Xỉu (4/5)",
+    "patterns": [
+      "Phân tích xúc xắc: TB=8.4",
+      "Momentum mạnh Xỉu (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862883689
+  },
+  {
+    "phien": "2367311",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      17
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862943118
+  },
+  {
+    "phien": "2367311",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      17
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862943696
+  },
+  {
+    "phien": "2367312",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      17
+    ],
+    "do_tin_cay": "61.80%",
+    "reason": "Dựa trên: Xu hướng tăng điểm (+2.0)",
+    "patterns": [
+      "Xu hướng tăng điểm (+2.0)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863000116
+  },
+  {
+    "phien": "2367312",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      17
+    ],
+    "do_tin_cay": "61.80%",
+    "reason": "Dựa trên: Xu hướng tăng điểm (+2.0)",
+    "patterns": [
+      "Xu hướng tăng điểm (+2.0)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863003719
+  },
+  {
+    "phien": "2367313",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      7
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863057123
+  },
+  {
+    "phien": "2367313",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      7
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863057812
+  },
+  {
+    "phien": "2367313",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      7
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863081783
+  },
+  {
+    "phien": "2367313",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      7
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863112362
+  },
+  {
+    "phien": "2367314",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      13
+    ],
+    "do_tin_cay": "62.10%",
+    "reason": "Dựa trên: Xu hướng tăng điểm (+2.2)",
+    "patterns": [
+      "Xu hướng tăng điểm (+2.2)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863118328
+  },
+  {
+    "phien": "2367315",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      13
+    ],
+    "do_tin_cay": "74.10%",
+    "reason": "Dựa trên: Cầu Bệt 3 phiên, Cầu 3-3 (1 bộ ba), Xu hướng tăng điểm (+3.4)",
+    "patterns": [
+      "Cầu Bệt 3 phiên",
+      "Cầu 3-3 (1 bộ ba)",
+      "Xu hướng tăng điểm (+3.4)",
+      "Momentum mạnh Tài (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863178376
+  },
+  {
+    "phien": "2367316",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      13
+    ],
+    "do_tin_cay": "70.90%",
+    "reason": "Dựa trên: Cầu Bệt 4 phiên, Cầu 3-3 (1 bộ ba), Momentum mạnh Tài (4/5)",
+    "patterns": [
+      "Cầu Bệt 4 phiên",
+      "Cầu 3-3 (1 bộ ba)",
+      "Cầu Gãy (bẻ cầu 4 phiên)",
+      "Momentum mạnh Tài (4/5)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863235554
+  },
+  {
+    "phien": "2367317",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      13
+    ],
+    "do_tin_cay": "66.90%",
+    "reason": "Dựa trên: Xu hướng tăng điểm (+1.6), Momentum mạnh Tài (4/5)",
+    "patterns": [
+      "Xu hướng tăng điểm (+1.6)",
+      "Momentum mạnh Tài (4/5)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863292364
+  },
+  {
+    "phien": "2367318",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      13
+    ],
+    "do_tin_cay": "66.90%",
+    "reason": "Dựa trên: Phân tích xúc xắc: TB=11.6, Momentum mạnh Tài (4/5)",
+    "patterns": [
+      "Phân tích xúc xắc: TB=11.6",
+      "Momentum mạnh Tài (4/5)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863352387
+  },
+  {
+    "phien": "2367319",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      13
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863409370
+  },
+  {
+    "phien": "2367320",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      8,
+      10
+    ],
+    "do_tin_cay": "65.80%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (5 phiên), Xu hướng giảm điểm (-1.6)",
+    "patterns": [
+      "Cầu Đảo 1-1 (5 phiên)",
+      "Phân tích xúc xắc: TB=11.6",
+      "Xu hướng giảm điểm (-1.6)"
+    ],
+    "ket_qua_thuc": "Bão",
+    "timestamp": 1767863466390
+  },
+  {
+    "phien": "2367321",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      8,
+      10
+    ],
+    "do_tin_cay": "64.80%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (5 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (5 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863526380
+  },
+  {
+    "phien": "2367322",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      8,
+      10,
+      4
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863583403
+  },
+  {
+    "phien": "2367323",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      8,
+      4
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863640430
+  },
+  {
+    "phien": "2367324",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      13,
+      11
+    ],
+    "do_tin_cay": "63.00%",
+    "reason": "Dựa trên: Cầu 2-2 (2 cặp)",
+    "patterns": [
+      "Cầu 2-2 (2 cặp)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863703424
+  },
+  {
+    "phien": "2367325",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      8,
+      10,
+      4
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863760432
+  },
+  {
+    "phien": "2367326",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      14
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863817432
+  },
+  {
+    "phien": "2367327",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      8,
+      10,
+      4
+    ],
+    "do_tin_cay": "64.20%",
+    "reason": "Dựa trên: Cầu Đảo 1-1 (4 phiên)",
+    "patterns": [
+      "Cầu Đảo 1-1 (4 phiên)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863874432
+  },
+  {
+    "phien": "2367328",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      8,
+      10,
+      4
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Bão",
+    "timestamp": 1767863934476
+  },
+  {
+    "phien": "2367329",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      11,
+      14
+    ],
+    "do_tin_cay": "61.50%",
+    "reason": "Dựa trên: Xu hướng tăng điểm (+1.6)",
+    "patterns": [
+      "Xu hướng tăng điểm (+1.6)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863991485
+  },
+  {
+    "phien": "2367330",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      8,
+      10,
+      4
+    ],
+    "do_tin_cay": "63.00%",
+    "reason": "Dựa trên: Cầu 3-3 (1 bộ ba)",
+    "patterns": [
+      "Cầu 3-3 (1 bộ ba)"
+    ],
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767864051525
+  },
+  {
+    "phien": "2367331",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      8,
+      10,
+      4
+    ],
+    "do_tin_cay": "64.50%",
+    "reason": "Dựa trên: Cầu 3-3 (1 bộ ba), Cầu Gãy (bẻ cầu 4 phiên)",
+    "patterns": [
+      "Cầu 3-3 (1 bộ ba)",
+      "Cầu Gãy (bẻ cầu 4 phiên)",
+      "Momentum mạnh Tài (4/5)"
+    ],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767864111487
+  },
+  {
+    "phien": "2367332",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      8,
+      10,
+      4
+    ],
+    "do_tin_cay": "65.00%",
+    "reason": "Không phát hiện cầu rõ ràng, dự đoán theo xu hướng cân bằng",
+    "patterns": [],
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767864168492
+  },
+  {
+    "phien": "2367696",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      13
+    ],
+    "do_tin_cay": "62.40%",
+    "reason": "Dựa trên: Cầu 2-2 (2 cặp)",
+    "patterns": [
+      "Cầu 2-2 (2 cặp)",
+      "Xu hướng giảm điểm (-2.0)"
+    ],
+    "ket_qua_thuc": null,
+    "timestamp": 1767885619034
+  }
+]

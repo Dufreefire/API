@@ -1,0 +1,1276 @@
+[
+  {
+    "phien": "3565077",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      7,
+      10
+    ],
+    "do_tin_cay": "69.76%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3), Cầu Bẻ (chuỗi 5 phiên sắp gãy)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1765550466655
+  },
+  {
+    "phien": "3565078",
+    "du_doan": "Tài",
+    "doan_vi": [
+      11,
+      12,
+      14
+    ],
+    "do_tin_cay": "71.66%",
+    "reason": "Dựa vào: Cầu Bệt 6 phiên liên tiếp, Cầu 2-2 (4 cặp đôi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1765550520366
+  },
+  {
+    "phien": "3612002",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      7,
+      6
+    ],
+    "do_tin_cay": "64.04%",
+    "reason": "Dựa vào: Phân phối lệch Tài 72%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861322169
+  },
+  {
+    "phien": "3612003",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      7,
+      6
+    ],
+    "do_tin_cay": "63.28%",
+    "reason": "Dựa vào: Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861343143
+  },
+  {
+    "phien": "3612003",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      7,
+      6
+    ],
+    "do_tin_cay": "63.28%",
+    "reason": "Dựa vào: Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861352964
+  },
+  {
+    "phien": "3612004",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      9
+    ],
+    "do_tin_cay": "65.18%",
+    "reason": "Dựa vào: Cầu 2-2 (2 cặp đôi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861394931
+  },
+  {
+    "phien": "3612004",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      9
+    ],
+    "do_tin_cay": "65.18%",
+    "reason": "Dựa vào: Cầu 2-2 (2 cặp đôi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861422548
+  },
+  {
+    "phien": "3612004",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      9
+    ],
+    "do_tin_cay": "65.18%",
+    "reason": "Dựa vào: Cầu 2-2 (2 cặp đôi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861435479
+  },
+  {
+    "phien": "3612005",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      9
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861441501
+  },
+  {
+    "phien": "3612005",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      9
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861465770
+  },
+  {
+    "phien": "3612006",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      5
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861489713
+  },
+  {
+    "phien": "3612006",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      5
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861533442
+  },
+  {
+    "phien": "3612007",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      5
+    ],
+    "do_tin_cay": "67.08%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (4 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861539390
+  },
+  {
+    "phien": "3612008",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      6,
+      5
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861590394
+  },
+  {
+    "phien": "3612009",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "67.32%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3), Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861638574
+  },
+  {
+    "phien": "3612010",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "67.02%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3), Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861689440
+  },
+  {
+    "phien": "3612011",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "72.80%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3), Cầu Bẻ (chuỗi 5 phiên sắp gãy), Phân phối lệch Tài 72%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861737404
+  },
+  {
+    "phien": "3612011",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "72.80%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3), Cầu Bẻ (chuỗi 5 phiên sắp gãy), Phân phối lệch Tài 72%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861779269
+  },
+  {
+    "phien": "3612012",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "81.24%",
+    "reason": "Dựa vào: Cầu 2-2 (3 cặp đôi), Cầu 3-3 (2 bộ ba, vị trí 1/3), Cầu Bẻ (chuỗi 6 phiên sắp gãy)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861785232
+  },
+  {
+    "phien": "3612012",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "81.24%",
+    "reason": "Dựa vào: Cầu 2-2 (3 cặp đôi), Cầu 3-3 (2 bộ ba, vị trí 1/3), Cầu Bẻ (chuỗi 6 phiên sắp gãy)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861785436
+  },
+  {
+    "phien": "3612013",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "64.04%",
+    "reason": "Dựa vào: Phân phối lệch Tài 72%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861836296
+  },
+  {
+    "phien": "3612013",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "64.04%",
+    "reason": "Dựa vào: Phân phối lệch Tài 72%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861836483
+  },
+  {
+    "phien": "3612013",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "64.04%",
+    "reason": "Dựa vào: Phân phối lệch Tài 72%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861869035
+  },
+  {
+    "phien": "3612014",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "64.42%",
+    "reason": "Dựa vào: Phân phối lệch Tài 76%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861883990
+  },
+  {
+    "phien": "3612014",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      6,
+      5,
+      9
+    ],
+    "do_tin_cay": "64.42%",
+    "reason": "Dựa vào: Phân phối lệch Tài 76%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861884276
+  },
+  {
+    "phien": "3612015",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      14,
+      15
+    ],
+    "do_tin_cay": "66.28%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (4 lần đổi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861932312
+  },
+  {
+    "phien": "3612015",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      14,
+      15
+    ],
+    "do_tin_cay": "66.28%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (4 lần đổi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767861934978
+  },
+  {
+    "phien": "3612016",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      9
+    ],
+    "do_tin_cay": "63.28%",
+    "reason": "Dựa vào: Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861982994
+  },
+  {
+    "phien": "3612016",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      9
+    ],
+    "do_tin_cay": "63.28%",
+    "reason": "Dựa vào: Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767861983289
+  },
+  {
+    "phien": "3612017",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      9
+    ],
+    "do_tin_cay": "63.28%",
+    "reason": "Dựa vào: Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862031036
+  },
+  {
+    "phien": "3612017",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      9
+    ],
+    "do_tin_cay": "63.28%",
+    "reason": "Dựa vào: Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862031304
+  },
+  {
+    "phien": "3612018",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      8
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862079377
+  },
+  {
+    "phien": "3612018",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      8
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862081995
+  },
+  {
+    "phien": "3612019",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      8
+    ],
+    "do_tin_cay": "69.36%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (4 lần đổi), Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862133000
+  },
+  {
+    "phien": "3612019",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      8
+    ],
+    "do_tin_cay": "69.36%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (4 lần đổi), Phân phối lệch Tài 68%",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862133374
+  },
+  {
+    "phien": "3612020",
+    "du_doan": "Tài",
+    "doan_vi": [
+      14,
+      15,
+      12
+    ],
+    "do_tin_cay": "68.22%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (5 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862181036
+  },
+  {
+    "phien": "3612020",
+    "du_doan": "Tài",
+    "doan_vi": [
+      14,
+      15,
+      12
+    ],
+    "do_tin_cay": "68.22%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (5 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862181396
+  },
+  {
+    "phien": "3612021",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      8
+    ],
+    "do_tin_cay": "68.60%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (6 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862229020
+  },
+  {
+    "phien": "3612021",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      8
+    ],
+    "do_tin_cay": "68.60%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (6 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862229389
+  },
+  {
+    "phien": "3612022",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      13
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862277017
+  },
+  {
+    "phien": "3612022",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      13
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862277412
+  },
+  {
+    "phien": "3612023",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      8
+    ],
+    "do_tin_cay": "65.04%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862328022
+  },
+  {
+    "phien": "3612023",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      6,
+      8
+    ],
+    "do_tin_cay": "65.04%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862328424
+  },
+  {
+    "phien": "3612024",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      6
+    ],
+    "do_tin_cay": "66.70%",
+    "reason": "Dựa vào: Cầu 1-2-3 biến thể",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862376061
+  },
+  {
+    "phien": "3612024",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      5,
+      7,
+      6
+    ],
+    "do_tin_cay": "66.70%",
+    "reason": "Dựa vào: Cầu 1-2-3 biến thể",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862376467
+  },
+  {
+    "phien": "3612025",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      5,
+      6
+    ],
+    "do_tin_cay": "65.18%",
+    "reason": "Dựa vào: Cầu 2-2 (2 cặp đôi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862427050
+  },
+  {
+    "phien": "3612025",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      5,
+      6
+    ],
+    "do_tin_cay": "65.18%",
+    "reason": "Dựa vào: Cầu 2-2 (2 cặp đôi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862427491
+  },
+  {
+    "phien": "3612026",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      5,
+      6
+    ],
+    "do_tin_cay": "71.26%",
+    "reason": "Dựa vào: Cầu Bệt 3 phiên liên tiếp, Cầu 3-3 (2 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862475087
+  },
+  {
+    "phien": "3612026",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      5,
+      6
+    ],
+    "do_tin_cay": "71.26%",
+    "reason": "Dựa vào: Cầu Bệt 3 phiên liên tiếp, Cầu 3-3 (2 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862475613
+  },
+  {
+    "phien": "3612027",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      14
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862523552
+  },
+  {
+    "phien": "3612027",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      14
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862526066
+  },
+  {
+    "phien": "3612028",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      14
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862571581
+  },
+  {
+    "phien": "3612028",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      14
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862574071
+  },
+  {
+    "phien": "3612029",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      8,
+      5
+    ],
+    "do_tin_cay": "67.08%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (4 lần đổi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862622601
+  },
+  {
+    "phien": "3612029",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      8,
+      5
+    ],
+    "do_tin_cay": "67.08%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (4 lần đổi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862625098
+  },
+  {
+    "phien": "3612030",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      14
+    ],
+    "do_tin_cay": "68.22%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (5 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862670746
+  },
+  {
+    "phien": "3612030",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      14
+    ],
+    "do_tin_cay": "68.22%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (5 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862673090
+  },
+  {
+    "phien": "3612031",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      8,
+      10
+    ],
+    "do_tin_cay": "68.60%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (6 lần đổi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862721605
+  },
+  {
+    "phien": "3612031",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      8,
+      10
+    ],
+    "do_tin_cay": "68.60%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (6 lần đổi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862724089
+  },
+  {
+    "phien": "3612032",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "68.60%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (7 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862769655
+  },
+  {
+    "phien": "3612032",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "68.60%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (7 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862772139
+  },
+  {
+    "phien": "3612033",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      7,
+      8
+    ],
+    "do_tin_cay": "68.60%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (8 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862820095
+  },
+  {
+    "phien": "3612033",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      7,
+      8
+    ],
+    "do_tin_cay": "68.60%",
+    "reason": "Dựa vào: Cầu Đảo 1-1 (8 lần đổi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767862820610
+  },
+  {
+    "phien": "3612034",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862871106
+  },
+  {
+    "phien": "3612034",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862871667
+  },
+  {
+    "phien": "3612035",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862916707
+  },
+  {
+    "phien": "3612035",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862919106
+  },
+  {
+    "phien": "3612036",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      10,
+      8
+    ],
+    "do_tin_cay": "65.18%",
+    "reason": "Dựa vào: Cầu 2-2 (2 cặp đôi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862967113
+  },
+  {
+    "phien": "3612036",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      7,
+      10,
+      8
+    ],
+    "do_tin_cay": "65.18%",
+    "reason": "Dựa vào: Cầu 2-2 (2 cặp đôi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767862967689
+  },
+  {
+    "phien": "3612037",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      11,
+      12
+    ],
+    "do_tin_cay": "65.04%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863018124
+  },
+  {
+    "phien": "3612037",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      11,
+      12
+    ],
+    "do_tin_cay": "65.04%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863018721
+  },
+  {
+    "phien": "3612038",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863066785
+  },
+  {
+    "phien": "3612038",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863069133
+  },
+  {
+    "phien": "3612038",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863081714
+  },
+  {
+    "phien": "3612038",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863112343
+  },
+  {
+    "phien": "3612039",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863115345
+  },
+  {
+    "phien": "3612040",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      11
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863166293
+  },
+  {
+    "phien": "3612041",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      12,
+      14
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863211335
+  },
+  {
+    "phien": "3612042",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      13
+    ],
+    "do_tin_cay": "65.18%",
+    "reason": "Dựa vào: Cầu 2-2 (2 cặp đôi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863262302
+  },
+  {
+    "phien": "3612043",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      9,
+      7
+    ],
+    "do_tin_cay": "65.04%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863313323
+  },
+  {
+    "phien": "3612044",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      14
+    ],
+    "do_tin_cay": "69.96%",
+    "reason": "Dựa vào: Cầu Bệt 4 phiên liên tiếp, Cầu 2-2 (3 cặp đôi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863361337
+  },
+  {
+    "phien": "3612045",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      11,
+      14
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863409366
+  },
+  {
+    "phien": "3612046",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      10,
+      7
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863460343
+  },
+  {
+    "phien": "3612047",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      7,
+      8
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863511350
+  },
+  {
+    "phien": "3612048",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      7,
+      8
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863556344
+  },
+  {
+    "phien": "3612049",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      7,
+      8
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863607413
+  },
+  {
+    "phien": "3612050",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      8,
+      5
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863655417
+  },
+  {
+    "phien": "3612051",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      8,
+      5
+    ],
+    "do_tin_cay": "65.04%",
+    "reason": "Dựa vào: Cầu 3-3 (1 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863706410
+  },
+  {
+    "phien": "3612052",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      16
+    ],
+    "do_tin_cay": "64.26%",
+    "reason": "Dựa vào: Cầu Bệt 4 phiên liên tiếp",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767863754457
+  },
+  {
+    "phien": "3612053",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      16
+    ],
+    "do_tin_cay": "70.08%",
+    "reason": "Dựa vào: Cầu Bệt 5 phiên liên tiếp, Xúc xắc nghiêng cao (19/24)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863805419
+  },
+  {
+    "phien": "3612054",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      16
+    ],
+    "do_tin_cay": "66.70%",
+    "reason": "Dựa vào: Xúc xắc nghiêng cao (18/24)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863853432
+  },
+  {
+    "phien": "3612055",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      5,
+      7
+    ],
+    "do_tin_cay": "66.70%",
+    "reason": "Dựa vào: Cầu 2-2 (3 cặp đôi)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863904451
+  },
+  {
+    "phien": "3612056",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      6,
+      5
+    ],
+    "do_tin_cay": "69.66%",
+    "reason": "Dựa vào: Cầu Bệt 3 phiên liên tiếp, Cầu 3-3 (2 bộ ba, vị trí 1/3)",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767863952431
+  },
+  {
+    "phien": "3612057",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      6,
+      5
+    ],
+    "do_tin_cay": "71.48%",
+    "reason": "Dựa vào: Cầu Bệt 4 phiên liên tiếp, Cầu 2-2 (4 cặp đôi)",
+    "ket_qua_thuc": "Tài",
+    "timestamp": 1767864003447
+  },
+  {
+    "phien": "3612058",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      6,
+      5
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767864051446
+  },
+  {
+    "phien": "3612059",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      16
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Bão",
+    "timestamp": 1767864102503
+  },
+  {
+    "phien": "3612060",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      14,
+      16
+    ],
+    "do_tin_cay": "63.50%",
+    "reason": "Dự đoán cân bằng xác suất",
+    "ket_qua_thuc": "Xỉu",
+    "timestamp": 1767864150568
+  },
+  {
+    "phien": "3612496",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      10,
+      8,
+      7
+    ],
+    "do_tin_cay": "67.08%",
+    "reason": "Dựa vào: Momentum giảm (4/5 lần giảm)",
+    "ket_qua_thuc": null,
+    "timestamp": 1767885619043
+  }
+]

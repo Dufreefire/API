@@ -1,0 +1,1007 @@
+{
+  "history": [
+    {
+      "session": 1322146,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "session": 1322147,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        6,
+        1,
+        5
+      ]
+    },
+    {
+      "session": 1322148,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        6,
+        5,
+        1
+      ]
+    },
+    {
+      "session": 1322149,
+      "result": "Xỉu",
+      "totalScore": 7,
+      "diceValues": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "session": 1322150,
+      "result": "Tài",
+      "totalScore": 13,
+      "diceValues": [
+        5,
+        3,
+        5
+      ]
+    },
+    {
+      "session": 1322151,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "session": 1322152,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        1,
+        6,
+        3
+      ]
+    },
+    {
+      "session": 1322153,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "session": 1322154,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        2,
+        1,
+        5
+      ]
+    },
+    {
+      "session": 1322155,
+      "result": "Tài",
+      "totalScore": 13,
+      "diceValues": [
+        5,
+        2,
+        6
+      ]
+    },
+    {
+      "session": 1322156,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        1,
+        6,
+        4
+      ]
+    },
+    {
+      "session": 1322157,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        1,
+        5,
+        3
+      ]
+    },
+    {
+      "session": 1322158,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        2,
+        6,
+        3
+      ]
+    },
+    {
+      "session": 1322159,
+      "result": "Tài",
+      "totalScore": 14,
+      "diceValues": [
+        3,
+        6,
+        5
+      ]
+    },
+    {
+      "session": 1322160,
+      "result": "Tài",
+      "totalScore": 14,
+      "diceValues": [
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "session": 1322161,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        1,
+        5,
+        4
+      ]
+    },
+    {
+      "session": 1322162,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        1,
+        6,
+        4
+      ]
+    },
+    {
+      "session": 1322163,
+      "result": "Xỉu",
+      "totalScore": 6,
+      "diceValues": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "session": 1322164,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "session": 1322165,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "session": 1322166,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "session": 1322167,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "session": 1322168,
+      "result": "Tài",
+      "totalScore": 13,
+      "diceValues": [
+        6,
+        3,
+        4
+      ]
+    },
+    {
+      "session": 1322169,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "session": 1322170,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "session": 1322171,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        2,
+        5,
+        1
+      ]
+    },
+    {
+      "session": 1322172,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "session": 1322173,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        4,
+        1,
+        4
+      ]
+    },
+    {
+      "session": 1322174,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        3,
+        3,
+        5
+      ]
+    },
+    {
+      "session": 1322175,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "session": 1322176,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "session": 1322177,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "session": 1322178,
+      "result": "Xỉu",
+      "totalScore": 6,
+      "diceValues": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "session": 1322179,
+      "result": "Xỉu",
+      "totalScore": 5,
+      "diceValues": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "session": 1322180,
+      "result": "Tài",
+      "totalScore": 16,
+      "diceValues": [
+        6,
+        6,
+        4
+      ]
+    },
+    {
+      "session": 1322181,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "session": 1322182,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        5,
+        1,
+        6
+      ]
+    },
+    {
+      "session": 1322183,
+      "result": "Tài",
+      "totalScore": 14,
+      "diceValues": [
+        6,
+        4,
+        4
+      ]
+    },
+    {
+      "session": 1322184,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        4,
+        2,
+        6
+      ]
+    },
+    {
+      "session": 1322185,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "session": 1322186,
+      "result": "Xỉu",
+      "totalScore": 6,
+      "diceValues": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "session": 1322187,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        6,
+        1,
+        1
+      ]
+    },
+    {
+      "session": 1322188,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        6,
+        1,
+        4
+      ]
+    },
+    {
+      "session": 1322189,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "session": 1322190,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        2,
+        5,
+        3
+      ]
+    },
+    {
+      "session": 1322191,
+      "result": "Tài",
+      "totalScore": 14,
+      "diceValues": [
+        6,
+        3,
+        5
+      ]
+    },
+    {
+      "session": 1322192,
+      "result": "Xỉu",
+      "totalScore": 7,
+      "diceValues": [
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "session": 1322193,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        6,
+        1,
+        2
+      ]
+    },
+    {
+      "session": 1322194,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        2,
+        6,
+        2
+      ]
+    },
+    {
+      "session": 1322195,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "session": 1322196,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "session": 1322197,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "session": 1322198,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        6,
+        1,
+        5
+      ]
+    },
+    {
+      "session": 1322199,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        1,
+        3,
+        6
+      ]
+    },
+    {
+      "session": 1322200,
+      "result": "Xỉu",
+      "totalScore": 4,
+      "diceValues": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "session": 1322201,
+      "result": "Xỉu",
+      "totalScore": 6,
+      "diceValues": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "session": 1322202,
+      "result": "Tài",
+      "totalScore": 14,
+      "diceValues": [
+        4,
+        4,
+        6
+      ]
+    },
+    {
+      "session": 1322203,
+      "result": "Tài",
+      "totalScore": 15,
+      "diceValues": [
+        5,
+        4,
+        6
+      ]
+    },
+    {
+      "session": 1322204,
+      "result": "Xỉu",
+      "totalScore": 7,
+      "diceValues": [
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "session": 1322205,
+      "result": "Tài",
+      "totalScore": 15,
+      "diceValues": [
+        6,
+        4,
+        5
+      ]
+    },
+    {
+      "session": 1322206,
+      "result": "Tài",
+      "totalScore": 13,
+      "diceValues": [
+        6,
+        4,
+        3
+      ]
+    },
+    {
+      "session": 1322207,
+      "result": "Tài",
+      "totalScore": 13,
+      "diceValues": [
+        5,
+        4,
+        4
+      ]
+    },
+    {
+      "session": 1322208,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        5,
+        3,
+        3
+      ]
+    },
+    {
+      "session": 1322209,
+      "result": "Tài",
+      "totalScore": 15,
+      "diceValues": [
+        5,
+        4,
+        6
+      ]
+    },
+    {
+      "session": 1322210,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "session": 1322211,
+      "result": "Xỉu",
+      "totalScore": 6,
+      "diceValues": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "session": 1322212,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        3,
+        1,
+        6
+      ]
+    },
+    {
+      "session": 1322213,
+      "result": "Tài",
+      "totalScore": 14,
+      "diceValues": [
+        6,
+        6,
+        2
+      ]
+    },
+    {
+      "session": 1322214,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        2,
+        1,
+        6
+      ]
+    },
+    {
+      "session": 1322215,
+      "result": "Tài",
+      "totalScore": 14,
+      "diceValues": [
+        6,
+        3,
+        5
+      ]
+    },
+    {
+      "session": 1322216,
+      "result": "Xỉu",
+      "totalScore": 10,
+      "diceValues": [
+        3,
+        5,
+        2
+      ]
+    },
+    {
+      "session": 1322217,
+      "result": "Tài",
+      "totalScore": 13,
+      "diceValues": [
+        6,
+        4,
+        3
+      ]
+    },
+    {
+      "session": 1322218,
+      "result": "Tài",
+      "totalScore": 13,
+      "diceValues": [
+        2,
+        6,
+        5
+      ]
+    },
+    {
+      "session": 1322219,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        6,
+        5,
+        1
+      ]
+    },
+    {
+      "session": 1322220,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "session": 1322221,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        5,
+        6,
+        1
+      ]
+    },
+    {
+      "session": 1322222,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        1,
+        6,
+        2
+      ]
+    },
+    {
+      "session": 1322223,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        6,
+        2,
+        4
+      ]
+    },
+    {
+      "session": 1322224,
+      "result": "Xỉu",
+      "totalScore": 4,
+      "diceValues": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "session": 1322225,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "session": 1322226,
+      "result": "Tài",
+      "totalScore": 13,
+      "diceValues": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "session": 1322227,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        5,
+        2,
+        5
+      ]
+    },
+    {
+      "session": 1322228,
+      "result": "Xỉu",
+      "totalScore": 5,
+      "diceValues": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "session": 1322229,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "session": 1322230,
+      "result": "Tài",
+      "totalScore": 17,
+      "diceValues": [
+        6,
+        5,
+        6
+      ]
+    },
+    {
+      "session": 1322231,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "session": 1322232,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "session": 1322233,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "session": 1322234,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        3,
+        3,
+        2
+      ]
+    },
+    {
+      "session": 1322235,
+      "result": "Tài",
+      "totalScore": 11,
+      "diceValues": [
+        1,
+        6,
+        4
+      ]
+    },
+    {
+      "session": 1322236,
+      "result": "Xỉu",
+      "totalScore": 9,
+      "diceValues": [
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "session": 1322237,
+      "result": "Xỉu",
+      "totalScore": 7,
+      "diceValues": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "session": 1322238,
+      "result": "Tài",
+      "totalScore": 12,
+      "diceValues": [
+        6,
+        5,
+        1
+      ]
+    },
+    {
+      "session": 1322239,
+      "result": "Xỉu",
+      "totalScore": 7,
+      "diceValues": [
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "session": 1322240,
+      "result": "Xỉu",
+      "totalScore": 5,
+      "diceValues": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "session": 1322241,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "session": 1322242,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        1,
+        4,
+        3
+      ]
+    },
+    {
+      "session": 1322243,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "session": 1322244,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "session": 1322245,
+      "result": "Xỉu",
+      "totalScore": 8,
+      "diceValues": [
+        4,
+        1,
+        3
+      ]
+    }
+  ],
+  "modelPredictions": {},
+  "totalWins": 0,
+  "totalLosses": 0
+}
