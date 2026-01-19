@@ -1,0 +1,34 @@
+{
+  "history": {
+    "hu": [
+      {
+        "phien": "6602135",
+        "du_doan": "tai",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T15:20:40.088Z"
+      },
+      {
+        "phien": "6602134",
+        "du_doan": "tai",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T15:20:19.218Z"
+      }
+    ],
+    "md5": [
+      {
+        "phien": "6621534",
+        "du_doan": "tai",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T15:20:19.424Z"
+      }
+    ]
+  },
+  "lastProcessedPhien": {
+    "hu": 6602135,
+    "md5": 6621534
+  },
+  "lastSaved": "2026-01-08T15:20:49.365Z"
+}
