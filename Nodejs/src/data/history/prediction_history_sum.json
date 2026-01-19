@@ -1,0 +1,440 @@
+{
+  "predictions": [
+    {
+      "phien": "1322246",
+      "prediction": "Tài",
+      "confidence": 89,
+      "reason": "Bẻ cầu sau chuỗi Xỉu 7 phiên liên tiếp",
+      "timestamp": 1767885619126,
+      "verified": false
+    },
+    {
+      "phien": "1321934",
+      "prediction": "Xỉu",
+      "confidence": 55,
+      "reason": "Dự đoán đảo chiều mặc định",
+      "timestamp": 1767864108436,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321933",
+      "prediction": "Tài",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Xỉu chiếm ưu thế (12/20)",
+      "timestamp": 1767864039386,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321932",
+      "prediction": "Tài",
+      "confidence": 74,
+      "reason": "Theo cầu Tài đang chạy 3 phiên",
+      "timestamp": 1767863970381,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321931",
+      "prediction": "Tài",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Xỉu chiếm ưu thế (12/20)",
+      "timestamp": 1767863901383,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321930",
+      "prediction": "Tài",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Xỉu chiếm ưu thế (13/20)",
+      "timestamp": 1767863832375,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321929",
+      "prediction": "Tài",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Xỉu chiếm ưu thế (13/20)",
+      "timestamp": 1767863763371,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321928",
+      "prediction": "Tài",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Xỉu chiếm ưu thế (12/20)",
+      "timestamp": 1767863694365,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321927",
+      "prediction": "Tài",
+      "confidence": 85,
+      "reason": "Bẻ cầu sau chuỗi Xỉu 5 phiên liên tiếp",
+      "timestamp": 1767863625359,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321926",
+      "prediction": "Xỉu",
+      "confidence": 77,
+      "reason": "Theo cầu Xỉu đang chạy 4 phiên",
+      "timestamp": 1767863556429,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321925",
+      "prediction": "Xỉu",
+      "confidence": 74,
+      "reason": "Theo cầu Xỉu đang chạy 3 phiên",
+      "timestamp": 1767863487575,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321924",
+      "prediction": "Tài",
+      "confidence": 55,
+      "reason": "Dự đoán đảo chiều mặc định",
+      "timestamp": 1767863418666,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321923",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767863349775,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321922",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767863280884,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321921",
+      "prediction": "Tài",
+      "confidence": 55,
+      "reason": "Dự đoán đảo chiều mặc định",
+      "timestamp": 1767863214266,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321920",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767863145254,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321919",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767863075754,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321918",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (13/20)",
+      "timestamp": 1767863006664,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321917",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767862937652,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321916",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (13/20)",
+      "timestamp": 1767862868636,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321915",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (13/20)",
+      "timestamp": 1767862799575,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321914",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (14/20)",
+      "timestamp": 1767862730568,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321913",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (14/20)",
+      "timestamp": 1767862661557,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321912",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (13/20)",
+      "timestamp": 1767862592510,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321911",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (14/20)",
+      "timestamp": 1767862523493,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321910",
+      "prediction": "Xỉu",
+      "confidence": 89,
+      "reason": "Bẻ cầu sau chuỗi Tài 7 phiên liên tiếp",
+      "timestamp": 1767862454469,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321909",
+      "prediction": "Xỉu",
+      "confidence": 87,
+      "reason": "Bẻ cầu sau chuỗi Tài 6 phiên liên tiếp",
+      "timestamp": 1767862385407,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321908",
+      "prediction": "Xỉu",
+      "confidence": 85,
+      "reason": "Bẻ cầu sau chuỗi Tài 5 phiên liên tiếp",
+      "timestamp": 1767862316512,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321907",
+      "prediction": "Tài",
+      "confidence": 77,
+      "reason": "Theo cầu Tài đang chạy 4 phiên",
+      "timestamp": 1767862247671,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321906",
+      "prediction": "Tài",
+      "confidence": 74,
+      "reason": "Theo cầu Tài đang chạy 3 phiên",
+      "timestamp": 1767862178742,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321905",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767862109884,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321904",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767862043280,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321903",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767861974250,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321902",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (13/20)",
+      "timestamp": 1767861905211,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321901",
+      "prediction": "Tài",
+      "confidence": 74,
+      "reason": "Theo cầu Tài đang chạy 3 phiên",
+      "timestamp": 1767861836184,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321900",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767861767363,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321899",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767861698353,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321898",
+      "prediction": "Tài",
+      "confidence": 55,
+      "reason": "Dự đoán đảo chiều mặc định",
+      "timestamp": 1767861629349,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": true
+    },
+    {
+      "phien": "1321897",
+      "prediction": "Tài",
+      "confidence": 74,
+      "reason": "Theo cầu Tài đang chạy 3 phiên",
+      "timestamp": 1767861560321,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321896",
+      "prediction": "Xỉu",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Tài chiếm ưu thế (12/20)",
+      "timestamp": 1767861489880,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1321895",
+      "prediction": "Xỉu",
+      "confidence": 55,
+      "reason": "Dự đoán đảo chiều mặc định",
+      "timestamp": 1767861428781,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    },
+    {
+      "phien": "1288344",
+      "prediction": "Tài",
+      "confidence": 68,
+      "reason": "Cân bằng sau khi Xỉu chiếm ưu thế (13/20)",
+      "timestamp": 1765550512405,
+      "verified": true,
+      "actual": "Xỉu",
+      "isCorrect": false
+    },
+    {
+      "phien": "1288343",
+      "prediction": "Xỉu",
+      "confidence": 74,
+      "reason": "Theo cầu Xỉu đang chạy 3 phiên",
+      "timestamp": 1765550466574,
+      "verified": true,
+      "actual": "Tài",
+      "isCorrect": false
+    }
+  ],
+  "totalPredictions": 42,
+  "correctPredictions": 22,
+  "streakAnalysis": {
+    "wins": 22,
+    "losses": 20,
+    "currentStreak": 2
+  },
+  "lastUpdate": "2026-01-08T09:22:57.439Z"
+}

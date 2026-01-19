@@ -1,0 +1,455 @@
+{
+  "sun": {
+    "predictions": [
+      {
+        "phien": "2943556",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 2-2 (2 cặp)",
+          "AI: Markov Chain (370%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: Cầu 2-2 (2 cặp)",
+          "AI Engine: AI Analysis: Markov Chain (370%) + 🔄 Chu kỳ 3 (3 lặp) + Cầu 2-2 (2 cặp)"
+        ],
+        "timestamp": 1767864192478,
+        "verified": false
+      },
+      {
+        "phien": "2943555",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 3 Ván 1 (3X-1T)",
+          "AI: Markov Chain (344%)",
+          "AI: 📈 Sum Pressure thấp (9.4)",
+          "AI Engine: AI Analysis: Markov Chain (344%) + 📈 Sum Pressure thấp (9.4)"
+        ],
+        "timestamp": 1767864123474,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2943554",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "AI: Markov Chain (311%)",
+          "AI: 🎲 Cầu 3-3 (1 bộ) - BẺ CẦU",
+          "AI: Cầu Bệt 3 - THEO CẦU",
+          "AI Engine: AI Analysis: Markov Chain (311%) + 🎲 Cầu 3-3 (1 bộ) - BẺ CẦU + Cầu Bệt 3 - THEO CẦU"
+        ],
+        "timestamp": 1767864054471,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "2943547",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu 2-2 (4 cặp)",
+          "AI: Markov Chain (275%)",
+          "AI: 🔄 Cầu 2-2 (4 cặp) - BẺ CẦU",
+          "AI Engine: AI Analysis: Markov Chain (275%) + 🔄 Cầu 2-2 (4 cặp) - BẺ CẦU"
+        ],
+        "timestamp": 1767863772364,
+        "verified": false
+      },
+      {
+        "phien": "2943546",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Tự Nhiên (Theo Ván Trước)",
+          "AI: Markov Chain (229%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: 📉 Volatility cao (73%)",
+          "AI Engine: AI Analysis: Markov Chain (229%) + 🔄 Chu kỳ 3 (3 lặp) + 📉 Volatility cao (73%)"
+        ],
+        "timestamp": 1767863493297,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "2943545",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 2-2 (3 cặp)",
+          "AI: Markov Chain (125%)",
+          "AI: 📉 Volatility cao (73%)",
+          "AI: Cầu 2-2 (3 cặp)",
+          "AI Engine: AI Analysis: Markov Chain (125%) + 📉 Volatility cao (73%) + Cầu 2-2 (3 cặp)"
+        ],
+        "timestamp": 1767863424266,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2943544",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Tự Nhiên (Theo Ván Trước)",
+          "AI: Markov Chain (71%)",
+          "AI: 📉 Volatility cao (73%)",
+          "AI Engine: AI Analysis: Markov Chain (71%) + 📉 Volatility cao (73%)"
+        ],
+        "timestamp": 1767863352261,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2943540",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu 2-2 (2 cặp)",
+          "AI: Markov Chain (300%)",
+          "AI: 📉 Volatility cao (73%)",
+          "AI: Cầu 2-2 (2 cặp)",
+          "AI Engine: AI Analysis: Markov Chain (300%) + 📉 Volatility cao (73%) + Cầu 2-2 (2 cặp)"
+        ],
+        "timestamp": 1767863072088,
+        "verified": false
+      },
+      {
+        "phien": "2943539",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Tự Nhiên (Theo Ván Trước)",
+          "AI: Markov Chain (260%)",
+          "AI: 📉 Volatility cao (82%)",
+          "AI Engine: AI Analysis: Markov Chain (260%) + 📉 Volatility cao (82%)"
+        ],
+        "timestamp": 1767863003087,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "2943533",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "AI: Markov Chain (133%)",
+          "AI Engine: AI Analysis: Markov Chain (133%)"
+        ],
+        "timestamp": 1767862582995,
+        "verified": false
+      },
+      {
+        "phien": "2943524",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Đảo 1-1 (7 phiên)",
+          "Cầu Ziczac (5 lần)",
+          "AI: Markov Chain (80%)",
+          "AI: 🎯 Cầu Đảo 7 - BẺ CẦU (100%)",
+          "AI Engine: AI Analysis: Markov Chain (80%) + 🎯 Cầu Đảo 7 - BẺ CẦU (100%)"
+        ],
+        "timestamp": 1767861952937,
+        "verified": false
+      }
+    ],
+    "patternStats": {
+      "cau_bet": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_dao_11": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_22": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_33": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_121": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_123": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_321": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_nhay_coc": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_nhip_nghieng": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_3van1": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_be_cau": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_chu_ky": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "distribution": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "dice_pattern": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sum_trend": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "edge_cases": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "momentum": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_tu_nhien": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "dice_trend_line": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "break_pattern": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "fibonacci": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "resistance_support": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "wave": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "golden_ratio": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "day_gay": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_44": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_55": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_212": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_1221": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_2112": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_gap": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_ziczac": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_doi": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_rong": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "smart_bet": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "markov_chain": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "moving_avg_drift": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sum_pressure": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "volatility": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sun_hot_cold": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sun_streak_break": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sun_balance": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sun_momentum_shift": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      }
+    },
+    "totalPredictions": 6,
+    "correctPredictions": 2,
+    "patternWeights": {},
+    "lastUpdate": "2026-01-08T09:23:12.478Z",
+    "streakAnalysis": {
+      "wins": 2,
+      "losses": 4,
+      "currentStreak": -1,
+      "bestStreak": 0,
+      "worstStreak": 0
+    },
+    "adaptiveThresholds": {},
+    "recentAccuracy": [],
+    "reversalState": {
+      "active": false,
+      "activatedAt": null,
+      "consecutiveLosses": 0,
+      "reversalCount": 0,
+      "lastReversalResult": null
+    },
+    "transitionMatrix": {
+      "Tài->Tài": 0,
+      "Tài->Xỉu": 0,
+      "Xỉu->Tài": 0,
+      "Xỉu->Xỉu": 0
+    }
+  }
+}

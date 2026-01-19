@@ -1,0 +1,86 @@
+{
+  "history": {
+    "sun": [
+      {
+        "phien": "2943556",
+        "du_doan": "Xỉu",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:23:12.478Z"
+      },
+      {
+        "phien": "2943555",
+        "du_doan": "Xỉu",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:22:03.474Z"
+      },
+      {
+        "phien": "2943554",
+        "du_doan": "Tài",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:20:54.471Z"
+      },
+      {
+        "phien": "2943547",
+        "du_doan": "Tài",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:16:12.364Z"
+      },
+      {
+        "phien": "2943546",
+        "du_doan": "Tài",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:11:33.297Z"
+      },
+      {
+        "phien": "2943545",
+        "du_doan": "Xỉu",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:10:24.266Z"
+      },
+      {
+        "phien": "2943544",
+        "du_doan": "Xỉu",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:09:12.261Z"
+      },
+      {
+        "phien": "2943540",
+        "du_doan": "Tài",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:04:32.088Z"
+      },
+      {
+        "phien": "2943539",
+        "du_doan": "Tài",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T09:03:23.087Z"
+      },
+      {
+        "phien": "2943533",
+        "du_doan": "Xỉu",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T08:56:22.995Z"
+      },
+      {
+        "phien": "2943524",
+        "du_doan": "Xỉu",
+        "ti_le": "85%",
+        "id": "@mryanhdz",
+        "timestamp": "2026-01-08T08:45:52.936Z"
+      }
+    ]
+  },
+  "lastProcessedPhien": {
+    "sun": 2943556
+  }
+}

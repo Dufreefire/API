@@ -1,0 +1,843 @@
+{
+  "hu": [
+    {
+      "Phien": 2851227,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 5,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767864224403
+    },
+    {
+      "Phien": 2851226,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 3,
+      "Tong": 7,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767864154403
+    },
+    {
+      "Phien": 2851225,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 6,
+      "Tong": 14,
+      "Ket_qua": "Tài",
+      "timestamp": 1767864084393
+    },
+    {
+      "Phien": 2851224,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 1,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767864014388
+    },
+    {
+      "Phien": 2851223,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 5,
+      "Tong": 15,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863944391
+    },
+    {
+      "Phien": 2851222,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 4,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863869387
+    },
+    {
+      "Phien": 2851221,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 6,
+      "Tong": 17,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863799379
+    },
+    {
+      "Phien": 2851220,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 2,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863729376
+    },
+    {
+      "Phien": 2851219,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 2,
+      "Tong": 5,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863659373
+    },
+    {
+      "Phien": 2851218,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 2,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863589366
+    },
+    {
+      "Phien": 2851217,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 6,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863514371
+    },
+    {
+      "Phien": 2851216,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 4,
+      "Tong": 13,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863444360
+    },
+    {
+      "Phien": 2851215,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 4,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863374347
+    },
+    {
+      "Phien": 2851214,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 6,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863304342
+    },
+    {
+      "Phien": 2851213,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 4,
+      "Tong": 13,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863234363
+    },
+    {
+      "Phien": 2851212,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 1,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863159337
+    },
+    {
+      "Phien": 2851211,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 6,
+      "Tong": 16,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863088785
+    },
+    {
+      "Phien": 2851210,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 4,
+      "Tong": 8,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863021499
+    },
+    {
+      "Phien": 2851209,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 4,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862946486
+    },
+    {
+      "Phien": 2851208,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 1,
+      "Tong": 5,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862876482
+    },
+    {
+      "Phien": 2851207,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 6,
+      "Tong": 16,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862806487
+    },
+    {
+      "Phien": 2851206,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 5,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862736526
+    },
+    {
+      "Phien": 2851205,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 3,
+      "Tong": 7,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862666434
+    },
+    {
+      "Phien": 2851204,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 5,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862591418
+    },
+    {
+      "Phien": 2851203,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 1,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862521403
+    },
+    {
+      "Phien": 2851202,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 5,
+      "Tong": 14,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862451399
+    },
+    {
+      "Phien": 2851201,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 2,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862381380
+    },
+    {
+      "Phien": 2851200,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 2,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862306370
+    },
+    {
+      "Phien": 2851199,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 2,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862236360
+    },
+    {
+      "Phien": 2851198,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 4,
+      "Tong": 7,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862166326
+    },
+    {
+      "Phien": 2851197,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 4,
+      "Tong": 8,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862096338
+    },
+    {
+      "Phien": 2851196,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 6,
+      "Tong": 16,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862026284
+    },
+    {
+      "Phien": 2851195,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 2,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861951275
+    },
+    {
+      "Phien": 2851194,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 2,
+      "Tong": 7,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861881267
+    },
+    {
+      "Phien": 2851193,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 6,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767861811255
+    },
+    {
+      "Phien": 2851192,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 5,
+      "Tong": 14,
+      "Ket_qua": "Tài",
+      "timestamp": 1767861740510
+    },
+    {
+      "Phien": 2851191,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 3,
+      "Tong": 14,
+      "Ket_qua": "Tài",
+      "timestamp": 1767861670480
+    },
+    {
+      "Phien": 2851190,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 2,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861600418
+    },
+    {
+      "Phien": 2851188,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 3,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861457572
+    },
+    {
+      "Phien": 2851187,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 1,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861384947
+    },
+    {
+      "Phien": 2818777,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 4,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1765550558601
+    },
+    {
+      "Phien": 2818776,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 2,
+      "Tong": 7,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1765550488587
+    }
+  ],
+  "md5": [
+    {
+      "Phien": 2275417,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 1,
+      "Tong": 8,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767885616248
+    },
+    {
+      "Phien": 2275083,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 6,
+      "Tong": 15,
+      "Ket_qua": "Tài",
+      "timestamp": 1767864189506
+    },
+    {
+      "Phien": 2275082,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 5,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767864124495
+    },
+    {
+      "Phien": 2275081,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 1,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767864059494
+    },
+    {
+      "Phien": 2275080,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 5,
+      "Tong": 14,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863994491
+    },
+    {
+      "Phien": 2275079,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 3,
+      "Tong": 5,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863929488
+    },
+    {
+      "Phien": 2275078,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 4,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863869507
+    },
+    {
+      "Phien": 2275077,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 3,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863804481
+    },
+    {
+      "Phien": 2275076,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 4,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863739478
+    },
+    {
+      "Phien": 2275075,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 6,
+      "Tong": 15,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863674489
+    },
+    {
+      "Phien": 2275074,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 1,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863609474
+    },
+    {
+      "Phien": 2275073,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 5,
+      "Tong": 14,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863549475
+    },
+    {
+      "Phien": 2275072,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 2,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863484467
+    },
+    {
+      "Phien": 2275071,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 5,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863419494
+    },
+    {
+      "Phien": 2275070,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 4,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863354452
+    },
+    {
+      "Phien": 2275069,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 6,
+      "Tong": 13,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863289451
+    },
+    {
+      "Phien": 2275068,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 3,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863224497
+    },
+    {
+      "Phien": 2275067,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 6,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863164438
+    },
+    {
+      "Phien": 2275066,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 5,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863109482
+    },
+    {
+      "Phien": 2275066,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 5,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767863098900
+    },
+    {
+      "Phien": 2275065,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 3,
+      "Tong": 13,
+      "Ket_qua": "Tài",
+      "timestamp": 1767863036595
+    },
+    {
+      "Phien": 2275064,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 6,
+      "Tong": 15,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862971593
+    },
+    {
+      "Phien": 2275063,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 2,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862906581
+    },
+    {
+      "Phien": 2275062,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 4,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862841575
+    },
+    {
+      "Phien": 2275061,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 6,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862776574
+    },
+    {
+      "Phien": 2275060,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 6,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862716525
+    },
+    {
+      "Phien": 2275059,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 6,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862651528
+    },
+    {
+      "Phien": 2275058,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 5,
+      "Tong": 13,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862586511
+    },
+    {
+      "Phien": 2275057,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 3,
+      "Tong": 15,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862521500
+    },
+    {
+      "Phien": 2275056,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 1,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862456496
+    },
+    {
+      "Phien": 2275055,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 3,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862391500
+    },
+    {
+      "Phien": 2275054,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 1,
+      "Tong": 6,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862331483
+    },
+    {
+      "Phien": 2275053,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 3,
+      "Xuc_xac_3": 6,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862266468
+    },
+    {
+      "Phien": 2275052,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 2,
+      "Tong": 4,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862201440
+    },
+    {
+      "Phien": 2275051,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 3,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767862136429
+    },
+    {
+      "Phien": 2275050,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 2,
+      "Tong": 6,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862071394
+    },
+    {
+      "Phien": 2275049,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 1,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767862011385
+    },
+    {
+      "Phien": 2275048,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 6,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861946381
+    },
+    {
+      "Phien": 2275047,
+      "Xuc_xac_1": 2,
+      "Xuc_xac_2": 5,
+      "Xuc_xac_3": 1,
+      "Tong": 8,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861881367
+    },
+    {
+      "Phien": 2275046,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 2,
+      "Tong": 5,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861816343
+    },
+    {
+      "Phien": 2275045,
+      "Xuc_xac_1": 3,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 1,
+      "Tong": 5,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861750602
+    },
+    {
+      "Phien": 2275044,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 4,
+      "Tong": 7,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861690584
+    },
+    {
+      "Phien": 2275043,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 5,
+      "Tong": 15,
+      "Ket_qua": "Tài",
+      "timestamp": 1767861625587
+    },
+    {
+      "Phien": 2275042,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 5,
+      "Tong": 12,
+      "Ket_qua": "Tài",
+      "timestamp": 1767861560696
+    },
+    {
+      "Phien": 2275041,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 6,
+      "Xuc_xac_3": 3,
+      "Tong": 15,
+      "Ket_qua": "Tài",
+      "timestamp": 1767861497845
+    },
+    {
+      "Phien": 2275040,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 1,
+      "Tong": 4,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861432777
+    },
+    {
+      "Phien": 2275040,
+      "Xuc_xac_1": 1,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 1,
+      "Tong": 4,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1767861429678
+    },
+    {
+      "Phien": 2275039,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 2,
+      "Tong": 11,
+      "Ket_qua": "Tài",
+      "timestamp": 1767861370049
+    },
+    {
+      "Phien": 2239190,
+      "Xuc_xac_1": 4,
+      "Xuc_xac_2": 4,
+      "Xuc_xac_3": 1,
+      "Tong": 9,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1765550608699
+    },
+    {
+      "Phien": 2239189,
+      "Xuc_xac_1": 5,
+      "Xuc_xac_2": 1,
+      "Xuc_xac_3": 4,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1765550543695
+    },
+    {
+      "Phien": 2239188,
+      "Xuc_xac_1": 6,
+      "Xuc_xac_2": 2,
+      "Xuc_xac_3": 2,
+      "Tong": 10,
+      "Ket_qua": "Xỉu",
+      "timestamp": 1765550483692
+    }
+  ]
+}

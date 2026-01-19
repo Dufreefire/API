@@ -1,0 +1,893 @@
+{
+  "b52": {
+    "predictions": [
+      {
+        "phien": "2627893",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Đảo 1-1 (4 phiên)",
+          "Phân bố lệch (T:39% - X:61%)",
+          "AI: Markov Chain (73%)",
+          "AI: Cầu Đảo 1-1 (4 phiên)",
+          "AI: 📉 Volatility cao (73%)",
+          "AI Engine: AI Analysis: Markov Chain (73%) + Cầu Đảo 1-1 (4 phiên) + 📉 Volatility cao (73%)"
+        ],
+        "timestamp": 1767885618991,
+        "verified": false
+      },
+      {
+        "phien": "2627892",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Phân bố lệch (T:37% - X:63%)",
+          "AI: Markov Chain (631%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: 📉 Volatility cao (73%)",
+          "AI Engine: AI Analysis: Markov Chain (631%) + 🔄 Chu kỳ 3 (3 lặp) + 📉 Volatility cao (73%)"
+        ],
+        "timestamp": 1767864156411,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627891",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Phân bố lệch (T:38% - X:62%)",
+          "AI: Markov Chain (700%)",
+          "AI: ⚡ Momentum Shift: Tài → Xỉu",
+          "AI: 📈 Sum Pressure thấp (8.8)",
+          "AI Engine: AI Analysis: Markov Chain (700%) + ⚡ Momentum Shift: Tài → Xỉu + 📈 Sum Pressure thấp (8.8)"
+        ],
+        "timestamp": 1767864087408,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627890",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Phân bố lệch (T:36% - X:64%)",
+          "AI: Markov Chain (553%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: 🔥 Cầu Bệt 4 - BẺ CẦU (100%)",
+          "AI Engine: AI Analysis: Markov Chain (553%) + 🔄 Chu kỳ 3 (3 lặp) + 🔥 Cầu Bệt 4 - BẺ CẦU (100%)"
+        ],
+        "timestamp": 1767864015387,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627889",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Phân bố lệch (T:38% - X:63%)",
+          "AI: Markov Chain (529%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: 🎲 Cầu 3-3 (1 bộ) - BẺ CẦU",
+          "AI Engine: AI Analysis: Markov Chain (529%) + 🔄 Chu kỳ 3 (3 lặp) + 🎲 Cầu 3-3 (1 bộ) - BẺ CẦU"
+        ],
+        "timestamp": 1767863946384,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627888",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Phân bố lệch (T:39% - X:61%)",
+          "AI: Markov Chain (508%)",
+          "AI: 🔄 Chu kỳ 4 (3 lặp)",
+          "AI: 📈 Sum Pressure thấp (9.0)",
+          "AI Engine: AI Analysis: Markov Chain (508%) + 🔄 Chu kỳ 4 (3 lặp) + 📈 Sum Pressure thấp (9.0)"
+        ],
+        "timestamp": 1767863877378,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627887",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Đảo 1-1 (7 phiên)",
+          "Cầu Chu Kỳ 2",
+          "Cầu Ziczac (5 lần)",
+          "AI: Markov Chain (492%)",
+          "AI: 🔄 Chu kỳ 4 (3 lặp)",
+          "AI: 🎯 Cầu Đảo 7 - BẺ CẦU (100%)",
+          "AI Engine: AI Analysis: Markov Chain (492%) + 🔄 Chu kỳ 4 (3 lặp) + 🎯 Cầu Đảo 7 - BẺ CẦU (100%)"
+        ],
+        "timestamp": 1767863805370,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627886",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Đảo 1-1 (6 phiên)",
+          "Cầu Chu Kỳ 2",
+          "Cầu Ziczac (4 lần)",
+          "AI: Markov Chain (433%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: 🎯 Cầu Đảo 6 - BẺ CẦU (100%)",
+          "AI Engine: AI Analysis: Markov Chain (433%) + 🔄 Chu kỳ 3 (3 lặp) + 🎯 Cầu Đảo 6 - BẺ CẦU (100%)"
+        ],
+        "timestamp": 1767863736324,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627885",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Đảo 1-1 (5 phiên)",
+          "Cầu Ziczac (3 lần)",
+          "AI: Markov Chain (427%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: Cầu Đảo 1-1 (5 phiên)",
+          "AI Engine: AI Analysis: Markov Chain (427%) + 🔄 Chu kỳ 3 (3 lặp) + Cầu Đảo 1-1 (5 phiên)"
+        ],
+        "timestamp": 1767863667318,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627884",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Đảo 1-1 (4 phiên)",
+          "AI: Markov Chain (350%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: Cầu Đảo 1-1 (4 phiên)",
+          "AI Engine: AI Analysis: Markov Chain (350%) + 🔄 Chu kỳ 3 (3 lặp) + Cầu Đảo 1-1 (4 phiên)"
+        ],
+        "timestamp": 1767863595311,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627883",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Đảo Xu Hướng (1T-4X)",
+          "Phân bố lệch (T:39% - X:61%)",
+          "AI: Markov Chain (350%)",
+          "AI: ⚡ Momentum Shift: Tài → Xỉu",
+          "AI Engine: AI Analysis: Markov Chain (350%) + ⚡ Momentum Shift: Tài → Xỉu"
+        ],
+        "timestamp": 1767863526272,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627882",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu 3 Ván 1 (3X-1T)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: Markov Chain (271%)",
+          "AI: 📉 Volatility thấp (27%)",
+          "AI Engine: AI Analysis: 🔄 Chu kỳ 3 (3 lặp) + Markov Chain (271%) + 📉 Volatility thấp (27%)"
+        ],
+        "timestamp": 1767863457260,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627881",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Phân bố lệch (T:38% - X:63%)",
+          "AI: Markov Chain (256%)",
+          "AI: 🎲 Cầu 3-3 (2 bộ) - BẺ CẦU",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI Engine: AI Analysis: Markov Chain (256%) + 🎲 Cầu 3-3 (2 bộ) - BẺ CẦU + 🔄 Chu kỳ 3 (3 lặp)"
+        ],
+        "timestamp": 1767863385257,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627880",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Tự Nhiên (Theo Ván Trước)",
+          "AI: Markov Chain (213%)",
+          "AI: 📈 Sum Pressure cao (12.4)",
+          "AI Engine: AI Analysis: Markov Chain (213%) + 📈 Sum Pressure cao (12.4)"
+        ],
+        "timestamp": 1767863316248,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627879",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Đảo Xu Hướng (4T-1X)",
+          "AI: Markov Chain (171%)",
+          "AI: ⚡ Momentum Shift: Xỉu → Tài",
+          "AI: 💥 Sum Pressure cực CAO (13.2) - ĐẢO CHIỀU",
+          "AI Engine: AI Analysis: Markov Chain (171%) + ⚡ Momentum Shift: Xỉu → Tài + 💥 Sum Pressure cực CAO (13.2) - ĐẢO CHIỀU"
+        ],
+        "timestamp": 1767863247246,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627878",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Bẻ Cầu",
+          "Đảo Xu Hướng (4T-1X)",
+          "AI: ⚡ Momentum Shift: Xỉu → Tài",
+          "AI: 💥 Sum Pressure cực CAO (13.2) - ĐẢO CHIỀU",
+          "AI: 🔥 Cầu Bệt 4 - BẺ CẦU (100%)",
+          "AI Engine: AI Analysis: ⚡ Momentum Shift: Xỉu → Tài + 💥 Sum Pressure cực CAO (13.2) - ĐẢO CHIỀU + 🔥 Cầu Bệt 4 - BẺ CẦU (100%)"
+        ],
+        "timestamp": 1767863175222,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627877",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "AI: 🎲 Cầu 3-3 (2 bộ) - BẺ CẦU",
+          "AI: Markov Chain (60%)",
+          "AI: 📈 Sum Pressure cao (12.6)",
+          "AI Engine: AI Analysis: 🎲 Cầu 3-3 (2 bộ) - BẺ CẦU + Markov Chain (60%) + 📈 Sum Pressure cao (12.6)"
+        ],
+        "timestamp": 1767863112220,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627876",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 5 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (5 Tài)",
+          "Tổng TB cao (11.8)",
+          "Cực Điểm Cao (4 phiên >= 14)",
+          "AI: ⚡ Momentum Shift: Xỉu → Tài",
+          "AI: Markov Chain (593%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI Engine: AI Analysis: ⚡ Momentum Shift: Xỉu → Tài + Markov Chain (593%) + 🔄 Chu kỳ 3 (3 lặp)"
+        ],
+        "timestamp": 1767863036086,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627875",
+        "prediction": "Tài",
+        "confidence": 78,
+        "factors": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Tổng TB cao (11.7)",
+          "Cực Điểm Cao (4 phiên >= 14)",
+          "AI: Markov Chain (586%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: 🔥 Cầu Bệt 4 - BẺ CẦU (100%)",
+          "AI Engine: AI Analysis: Markov Chain (586%) + 🔄 Chu kỳ 3 (3 lặp) + 🔥 Cầu Bệt 4 - BẺ CẦU (100%)"
+        ],
+        "timestamp": 1767862967074,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627874",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Tổng TB cao (11.6)",
+          "Cực Điểm Cao (4 phiên >= 14)",
+          "AI: Markov Chain (577%)",
+          "AI: ⚡ Momentum Shift: Xỉu → Tài",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI Engine: AI Analysis: Markov Chain (577%) + ⚡ Momentum Shift: Xỉu → Tài + 🔄 Chu kỳ 3 (3 lặp)"
+        ],
+        "timestamp": 1767862895068,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627873",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Tổng TB cao (11.6)",
+          "AI: Markov Chain (567%)",
+          "AI: ⚡ Momentum Shift: Xỉu → Tài",
+          "AI: 🔄 Chu kỳ 3 (4 lặp)",
+          "AI Engine: AI Analysis: Markov Chain (567%) + ⚡ Momentum Shift: Xỉu → Tài + 🔄 Chu kỳ 3 (4 lặp)"
+        ],
+        "timestamp": 1767862826008,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627872",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 3 Ván 1 (3T-1X)",
+          "AI: Markov Chain (555%)",
+          "AI: 🔄 Chu kỳ 3 (4 lặp)",
+          "AI: 📉 Volatility cao (73%)",
+          "AI Engine: AI Analysis: Markov Chain (555%) + 🔄 Chu kỳ 3 (4 lặp) + 📉 Volatility cao (73%)"
+        ],
+        "timestamp": 1767862757005,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627871",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Tự Nhiên (Theo Ván Trước)",
+          "AI: Markov Chain (473%)",
+          "AI: 🔄 Chu kỳ 3 (4 lặp)",
+          "AI Engine: AI Analysis: Markov Chain (473%) + 🔄 Chu kỳ 3 (4 lặp)"
+        ],
+        "timestamp": 1767862684997,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627870",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu 2-2 (2 cặp)",
+          "AI: Markov Chain (480%)",
+          "AI: 🔄 Chu kỳ 3 (4 lặp)",
+          "AI: Cầu 2-2 (2 cặp)",
+          "AI Engine: AI Analysis: Markov Chain (480%) + 🔄 Chu kỳ 3 (4 lặp) + Cầu 2-2 (2 cặp)"
+        ],
+        "timestamp": 1767862615993,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627869",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Tự Nhiên (Theo Ván Trước)",
+          "AI: Markov Chain (467%)",
+          "AI: 🔄 Chu kỳ 3 (4 lặp)",
+          "AI Engine: AI Analysis: Markov Chain (467%) + 🔄 Chu kỳ 3 (4 lặp)"
+        ],
+        "timestamp": 1767862546990,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627868",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 3 Ván 1 (3X-1T)",
+          "AI: Markov Chain (370%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI Engine: AI Analysis: Markov Chain (370%) + 🔄 Chu kỳ 3 (3 lặp)"
+        ],
+        "timestamp": 1767862474983,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627867",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Đảo 1-1 (4 phiên)",
+          "AI: Markov Chain (356%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI: Cầu Đảo 1-1 (4 phiên)",
+          "AI Engine: AI Analysis: Markov Chain (356%) + 🔄 Chu kỳ 3 (3 lặp) + Cầu Đảo 1-1 (4 phiên)"
+        ],
+        "timestamp": 1767862405956,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627866",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 3 Ván 1 (3T-1X)",
+          "AI: Markov Chain (325%)",
+          "AI: 📈 Sum Pressure cao (11.6)",
+          "AI Engine: AI Analysis: Markov Chain (325%) + 📈 Sum Pressure cao (11.6)"
+        ],
+        "timestamp": 1767862336953,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627865",
+        "prediction": "Tài",
+        "confidence": 51,
+        "factors": [
+          "Cầu Tự Nhiên (Theo Ván Trước)",
+          "AI: Markov Chain (300%)",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI Engine: AI Analysis: Markov Chain (300%) + 🔄 Chu kỳ 3 (3 lặp)"
+        ],
+        "timestamp": 1767862264947,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "2627864",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Đảo Xu Hướng (4T-1X)",
+          "AI: Markov Chain (243%)",
+          "AI: ⚡ Momentum Shift: Xỉu → Tài",
+          "AI: 🔄 Chu kỳ 3 (3 lặp)",
+          "AI Engine: AI Analysis: Markov Chain (243%) + ⚡ Momentum Shift: Xỉu → Tài + 🔄 Chu kỳ 3 (3 lặp)"
+        ],
+        "timestamp": 1767862195937,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627863",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Đảo Xu Hướng (4T-1X)",
+          "AI: Markov Chain (217%)",
+          "AI: ⚡ Momentum Shift: Xỉu → Tài",
+          "AI: 📈 Sum Pressure cao (11.6)",
+          "AI Engine: AI Analysis: Markov Chain (217%) + ⚡ Momentum Shift: Xỉu → Tài + 📈 Sum Pressure cao (11.6)"
+        ],
+        "timestamp": 1767862126932,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627862",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Phân bố lệch (T:38% - X:62%)",
+          "AI: Markov Chain (171%)",
+          "AI Engine: AI Analysis: Markov Chain (171%)"
+        ],
+        "timestamp": 1767862054929,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627861",
+        "prediction": "Tài",
+        "confidence": 85,
+        "factors": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "AI: Markov Chain (120%)",
+          "AI: 🎲 Cầu 3-3 (2 bộ) - BẺ CẦU",
+          "AI: Cầu Bệt 3 - THEO CẦU",
+          "AI Engine: AI Analysis: Markov Chain (120%) + 🎲 Cầu 3-3 (2 bộ) - BẺ CẦU + Cầu Bệt 3 - THEO CẦU"
+        ],
+        "timestamp": 1767861985920,
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627860",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Phân bố lệch (T:36% - X:64%)",
+          "AI: Markov Chain (75%)",
+          "AI Engine: AI Analysis: Markov Chain (75%)"
+        ],
+        "timestamp": 1767861916917,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "2627858",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "factors": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Phân bố lệch (T:30% - X:70%)",
+          "AI: Markov Chain (100%)",
+          "AI Engine: AI Analysis: Markov Chain (100%)"
+        ],
+        "timestamp": 1767861776338,
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      }
+    ],
+    "patternStats": {
+      "cau_bet": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_dao_11": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_22": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_33": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_121": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_123": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_321": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_nhay_coc": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_nhip_nghieng": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_3van1": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_be_cau": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_chu_ky": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "distribution": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "dice_pattern": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sum_trend": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "edge_cases": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "momentum": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_tu_nhien": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "dice_trend_line": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "break_pattern": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "fibonacci": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "resistance_support": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "wave": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "golden_ratio": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "day_gay": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_44": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_55": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_212": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_1221": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_2112": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_gap": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_ziczac": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_doi": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "cau_rong": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "smart_bet": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "markov_chain": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "moving_avg_drift": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sum_pressure": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "volatility": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sun_hot_cold": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sun_streak_break": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sun_balance": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      },
+      "sun_momentum_shift": {
+        "wins": 0,
+        "losses": 0,
+        "total": 0,
+        "recentResults": []
+      }
+    },
+    "totalPredictions": 34,
+    "correctPredictions": 13,
+    "patternWeights": {},
+    "lastUpdate": "2026-01-08T15:20:18.985Z",
+    "streakAnalysis": {
+      "wins": 13,
+      "losses": 21,
+      "currentStreak": -1,
+      "bestStreak": 0,
+      "worstStreak": 0
+    },
+    "adaptiveThresholds": {},
+    "recentAccuracy": [],
+    "reversalState": {
+      "active": false,
+      "activatedAt": null,
+      "consecutiveLosses": 0,
+      "reversalCount": 0,
+      "lastReversalResult": null
+    },
+    "transitionMatrix": {
+      "Tài->Tài": 0,
+      "Tài->Xỉu": 0,
+      "Xỉu->Tài": 0,
+      "Xỉu->Xỉu": 0
+    }
+  }
+}
